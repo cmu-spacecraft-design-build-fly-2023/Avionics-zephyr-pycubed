@@ -5,4 +5,3 @@
 
 config BOARD
 	default "pycubed_v5"
-	depends on PYCUBED_V5
